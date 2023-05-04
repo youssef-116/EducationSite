@@ -1,0 +1,8 @@
+stripcslashes() => لمنع الاختراق لاكواد برمجة
+strtolower() => تصغير الحروف
+htmlentitiles() => حتي لا  يكتب احد اكواد html
+mysqli_real_escape_string() => تمنع المستخدم من استخدام ال "" 
+md5() => ليها علاقة بالباسورد 
+in_array() => بتربطك بحاجات معينة 
+filter_var($varible,FILTER_VALIDATE_INT) => للتاكد اذا كان عدد
+
