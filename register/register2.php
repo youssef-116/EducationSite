@@ -66,7 +66,7 @@
                 <p>if you have an account <a href="../login/index.php">login now</a></p>
             </div> 
             <div>
-                <p>if you have to <a href="../user.php">Exit</a></p>
+                <p>if you have to <a href="../index.php">Exit</a></p>
             </div> 
         </form>
     </div>
